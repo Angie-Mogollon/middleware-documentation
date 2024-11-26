@@ -1,0 +1,16 @@
+import comp from "C:/Users/Lenovo/Downloads/vuepress/vuepress/docs/.vuepress/.temp/pages/AccessControll.html.vue"
+const data = JSON.parse("{\"path\":\"/AccessControll.html\",\"title\":\"Functional Requirements Document\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"1. General Project Information\",\"slug\":\"_1-general-project-information\",\"link\":\"#_1-general-project-information\",\"children\":[]},{\"level\":2,\"title\":\"2. Objective\",\"slug\":\"_2-objective\",\"link\":\"#_2-objective\",\"children\":[]},{\"level\":2,\"title\":\"3. Sprint Scope\",\"slug\":\"_3-sprint-scope\",\"link\":\"#_3-sprint-scope\",\"children\":[]},{\"level\":2,\"title\":\"4. Functional Requirements\",\"slug\":\"_4-functional-requirements\",\"link\":\"#_4-functional-requirements\",\"children\":[{\"level\":3,\"title\":\"4.1 General Description\",\"slug\":\"_4-1-general-description\",\"link\":\"#_4-1-general-description\",\"children\":[]},{\"level\":3,\"title\":\"4.2 Use Cases\",\"slug\":\"_4-2-use-cases\",\"link\":\"#_4-2-use-cases\",\"children\":[]}]},{\"level\":2,\"title\":\"5. Validations Requested by the Client\",\"slug\":\"_5-validations-requested-by-the-client\",\"link\":\"#_5-validations-requested-by-the-client\",\"children\":[]},{\"level\":2,\"title\":\"6. Assumptions and Dependencies\",\"slug\":\"_6-assumptions-and-dependencies\",\"link\":\"#_6-assumptions-and-dependencies\",\"children\":[]},{\"level\":2,\"title\":\"7. Sequence Diagrams\",\"slug\":\"_7-sequence-diagrams\",\"link\":\"#_7-sequence-diagrams\",\"children\":[{\"level\":3,\"title\":\"\",\"slug\":\"\",\"link\":\"#\",\"children\":[]}]},{\"level\":2,\"title\":\"8. Service Data\",\"slug\":\"_8-service-data\",\"link\":\"#_8-service-data\",\"children\":[]},{\"level\":2,\"title\":\"9. Unit Tests\",\"slug\":\"_9-unit-tests\",\"link\":\"#_9-unit-tests\",\"children\":[{\"level\":3,\"title\":\"9.1\\tGeneral Configuration\",\"slug\":\"_9-1general-configuration\",\"link\":\"#_9-1general-configuration\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-1\",\"link\":\"#-1\",\"children\":[]},{\"level\":3,\"title\":\"9.2\\tgetHealth\",\"slug\":\"_9-2gethealth\",\"link\":\"#_9-2gethealth\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-2\",\"link\":\"#-2\",\"children\":[]},{\"level\":3,\"title\":\"9.3\\tverifyIDSocial\",\"slug\":\"_9-3verifyidsocial\",\"link\":\"#_9-3verifyidsocial\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-3\",\"link\":\"#-3\",\"children\":[]},{\"level\":3,\"title\":\"9.4\\tprocessAccessControl\",\"slug\":\"_9-4processaccesscontrol\",\"link\":\"#_9-4processaccesscontrol\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-4\",\"link\":\"#-4\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-5\",\"link\":\"#-5\",\"children\":[]}]},{\"level\":2,\"title\":\"10. Annexes\",\"slug\":\"_10-annexes\",\"link\":\"#_10-annexes\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"AccessControll.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,0 +1,16 @@
+import comp from "C:/Users/Lenovo/Downloads/vuepress/vuepress/docs/.vuepress/.temp/pages/MinTransport.html.vue"
+const data = JSON.parse("{\"path\":\"/MinTransport.html\",\"title\":\"Functional Requirements Delivery\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"1. General Project Information\",\"slug\":\"_1-general-project-information\",\"link\":\"#_1-general-project-information\",\"children\":[]},{\"level\":2,\"title\":\"2. Objective\",\"slug\":\"_2-objective\",\"link\":\"#_2-objective\",\"children\":[]},{\"level\":2,\"title\":\"3. Sprint Scope\",\"slug\":\"_3-sprint-scope\",\"link\":\"#_3-sprint-scope\",\"children\":[]},{\"level\":2,\"title\":\"4. Functional Requirements\",\"slug\":\"_4-functional-requirements\",\"link\":\"#_4-functional-requirements\",\"children\":[{\"level\":3,\"title\":\"4.1. General Description\",\"slug\":\"_4-1-general-description\",\"link\":\"#_4-1-general-description\",\"children\":[]},{\"level\":3,\"title\":\"4.2. Use Cases\",\"slug\":\"_4-2-use-cases\",\"link\":\"#_4-2-use-cases\",\"children\":[]}]},{\"level\":2,\"title\":\"5. Client-Requested Validations\",\"slug\":\"_5-client-requested-validations\",\"link\":\"#_5-client-requested-validations\",\"children\":[{\"level\":3,\"title\":\"5.1.\\tError Handling\",\"slug\":\"_5-1-error-handling\",\"link\":\"#_5-1-error-handling\",\"children\":[]}]},{\"level\":2,\"title\":\"6. Assumptions and Dependencies\",\"slug\":\"_6-assumptions-and-dependencies\",\"link\":\"#_6-assumptions-and-dependencies\",\"children\":[]},{\"level\":2,\"title\":\"7. Service Data\",\"slug\":\"_7-service-data\",\"link\":\"#_7-service-data\",\"children\":[{\"level\":3,\"title\":\"Documentation Swagger - Ambiente DEV\",\"slug\":\"documentation-swagger-ambiente-dev\",\"link\":\"#documentation-swagger-ambiente-dev\",\"children\":[]},{\"level\":3,\"title\":\"Input Parameters\",\"slug\":\"input-parameters\",\"link\":\"#input-parameters\",\"children\":[]},{\"level\":3,\"title\":\"Service Response\",\"slug\":\"service-response\",\"link\":\"#service-response\",\"children\":[]},{\"level\":3,\"title\":\"Screenshot Swagger\",\"slug\":\"screenshot-swagger\",\"link\":\"#screenshot-swagger\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"\",\"link\":\"#\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-1\",\"link\":\"#-1\",\"children\":[]}]},{\"level\":2,\"title\":\"8. Unit Tests\",\"slug\":\"_8-unit-tests\",\"link\":\"#_8-unit-tests\",\"children\":[{\"level\":3,\"title\":\"Escenario Ok:\",\"slug\":\"escenario-ok\",\"link\":\"#escenario-ok\",\"children\":[]},{\"level\":3,\"title\":\"Manejo de Errores:\",\"slug\":\"manejo-de-errores\",\"link\":\"#manejo-de-errores\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-2\",\"link\":\"#-2\",\"children\":[]},{\"level\":3,\"title\":\"\",\"slug\":\"-3\",\"link\":\"#-3\",\"children\":[]}]},{\"level\":2,\"title\":\"9. Annexes\",\"slug\":\"_9-annexes\",\"link\":\"#_9-annexes\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"MinTransport.md\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
